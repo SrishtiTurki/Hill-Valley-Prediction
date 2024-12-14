@@ -34,7 +34,7 @@ To replicate this project, follow the steps below:
 
 1. Clone the repository:
     ```bash
-    git clone Hill_Valley_Prediction (1).ipynb
+    git clone https://github.com/SrishtiTurki/Hill-Valley-Prediction.git
     ```
 2. Install the required libraries:
     ```bash
